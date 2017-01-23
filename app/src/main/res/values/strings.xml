@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiple Screen</string>
+    <string name="text_btn">Get start data</string>
+    <string name="network_connected">Network has connected</string>
+    <string name="network_disconnected">Network has disconnected</string>
+    <string name="wifi_connected">Wifi has connected</string>
+    <string name="mobile_connected">Mobile has connected</string>
+</resources>
